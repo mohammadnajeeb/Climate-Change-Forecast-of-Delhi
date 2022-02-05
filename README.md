@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <h3 align="center">Climate Change Forecast of Delhi</h3>
+    <h2 align="center">Climate Change Forecast of Delhi</h2>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
