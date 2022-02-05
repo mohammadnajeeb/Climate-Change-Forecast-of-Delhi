@@ -1,6 +1,3 @@
-# Climate-Change-Forecast-of-Delhi
-Machine Learning Model on "Climate Change Forecast of Delhi" based on steps and techniques used by Leandro Rabelo (International Market Specialist at Usina Coruripe Maceió, State of Alagoas, Brazil) in his Kaggle project.  The technique known as time series analysis is used to obtain very useful results and statistics using the time series dataset of climate change forecasts.   Results are visually presented with the help of various powerful SciPy libraries such as Matplotlib and Numpy.  One of the biggest help we can get from here is that we can predict climate change like floods using Deep learning models.
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -12,45 +9,10 @@ Machine Learning Model on "Climate Change Forecast of Delhi" based on steps and 
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Climate-Change-Forecast-of-Delhi</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
 
 
 
