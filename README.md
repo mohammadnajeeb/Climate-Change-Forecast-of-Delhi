@@ -17,7 +17,7 @@
     <h2 align="center">Climate Change Forecast of Delhi</h2>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Demonstration of Climate Change Forecast of Delhi using Time Series Analysis.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
