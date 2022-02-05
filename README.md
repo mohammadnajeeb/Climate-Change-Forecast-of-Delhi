@@ -80,14 +80,8 @@ Results are visually presented with the help of various powerful SciPy libraries
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Dataset](https://www.kaggle.com/leandrovrabelo/climate-change-forecast-sarima-model/data)
+* [Climate Change Forecast - SARIMA Model](https://www.kaggle.com/leandrovrabelo/climate-change-forecast-sarima-model/notebook)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
