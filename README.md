@@ -78,8 +78,6 @@ Results are visually presented with the help of various powerful SciPy libraries
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Dataset](https://www.kaggle.com/leandrovrabelo/climate-change-forecast-sarima-model/data)
 * [Climate Change Forecast - SARIMA Model](https://www.kaggle.com/leandrovrabelo/climate-change-forecast-sarima-model/notebook)
 
